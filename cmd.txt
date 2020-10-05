@@ -1,6 +1,7 @@
 git init
 
+#test pull
+=======
 git add .
-
 
 
