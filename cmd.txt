@@ -1,7 +1,11 @@
 git init
 
+
 #test pull
 =======
 git add .
 
+
+=======
+update my file
 
